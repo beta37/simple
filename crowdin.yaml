@@ -1,0 +1,4 @@
+files:
+  - 
+    source: /bb/1.txt
+    translation: '%two_letters_code%/%original_file_name%'
