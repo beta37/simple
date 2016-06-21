@@ -1,4 +1,0 @@
-files:
-  - 
-    source: '/**/*.*'
-    translation: '%original_path%'
