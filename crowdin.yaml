@@ -1,4 +1,4 @@
 files:
   - 
-    source: 1.txt
+    source: '*.txt'
     translation: '%original_path%/%original_file_name%'
