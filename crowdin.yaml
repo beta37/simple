@@ -1,7 +1,3 @@
 files:
-  - 
-    source: '/**/*.csv'
-    translation: '/%two_letters_code%/%original_path%/%original_file_name%'
-  - 
-    source: '/**/*.md'
-    translation: '/%two_letters_code%/%original_path%/%original_file_name%'
+  - source: '*.md'
+    translation: /%original_path%/%two_letters_code%-%original_file_name%
